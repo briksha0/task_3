@@ -1,4 +1,4 @@
-# screenshot of perform sql queries
+# screenshot to perform sql queries
 
 ![Screenshot 2025-04-10 191908](https://github.com/user-attachments/assets/a3cac8da-582f-42cc-880d-05ab1108770e)
 ![Screenshot 2025-04-10 193410](https://github.com/user-attachments/assets/1c1a4ed2-f0f1-480f-886a-c2e96854d5e1)
