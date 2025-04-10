@@ -7,6 +7,8 @@ This is our pizza record. It includes order details and varities of pizza.Its ha
 
 Its identify the higest price of pizza.
 ![Screenshot 2025-04-10 192327](https://github.com/user-attachments/assets/b4f1cce9-7743-405a-b21c-1554bc8f0a3d)
+
+Its anaylse the culamative revenue generate over time.
 ![Screenshot 2025-04-10 193142](https://github.com/user-attachments/assets/b7aa8963-dec9-4d6a-897c-d9f754774104)
 ![Screenshot 2025-04-10 124535](https://github.com/user-attachments/assets/afc80284-83fa-4b74-b57a-26f2d6ff9ea6)
 ![Screenshot 2025-04-10 134006](https://github.com/user-attachments/assets/df42c83e-04a7-4e01-a8a5-444dce5f3350)
